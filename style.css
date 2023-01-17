@@ -2,7 +2,7 @@
     body{
         display: grid;
         grid-template-columns: 20% 20% 20% 20% 20%;
-        grid-template-rows: 7% 5% 18% 10% 10% 10% 10% 10% 15% 5%;
+        grid-template-rows: 7% 5% 18% 10% 10% 10% 10% 10% 15% 5%; /*Az egészet flex És grid segítségével megoldani*/
         margin: 0px;
         padding: 0px;
         height: 200vh;
