@@ -7,7 +7,7 @@
         padding: 0px;
         height: 130vh;
     }
-    div{
+    div, aside, header{
         border: 1px black solid;
         padding: 10px;
         text-align: justify;
@@ -71,6 +71,7 @@
         text-align: center;
         background: rgb(75,75,75);
         background: linear-gradient(0deg, rgba(75,75,75,1) 0%, rgba(227,227,227,1) 100%);
+        border: 1px black solid;
     }
     #footer p{
         color: black;
@@ -169,7 +170,7 @@
         padding: 0px;
         height: 200vh;
     }
-    div{
+    div, aside, header{
         border: 1px black solid;
         padding: 10px;
         text-align: justify;
